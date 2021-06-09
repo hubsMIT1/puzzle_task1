@@ -50,8 +50,8 @@ body {
     display: grid;
     grid-template-columns: 60px 60px 60px 60px 60px;
     grid-template-rows: 60px 60px 60px 60px 60px;
-    column-gap: 3px;
-    row-gap: 3px;
+    column-gap: 2px;
+    row-gap: 2px;
     /* width: 33.75rem;
     height: 33.75rem; */
 }
